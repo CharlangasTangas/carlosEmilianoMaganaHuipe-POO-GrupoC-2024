@@ -1,4 +1,4 @@
-Tarea5-Unidad2
+Tarea #5 - Unidad 2
 =============
 
 ## Clase Rectángulo
@@ -49,4 +49,5 @@ Finalmente, implementé la clase **CalculadoraImpuestos** que cuenta con el mét
     }
 ```
 <br>
+
 *Hecho por: Carlos Emiliano Magaña Huipe*

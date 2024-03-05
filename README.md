@@ -2,7 +2,13 @@ Tarea #7 - Unidad 2
 =============
 Primero agregamos la funcionalidad para que un empleado pueda tener múltiples cuentas bancarias. Modificamos la clase **Employee** para que ahora contenga una lista de BankAccount en lugar de una sola instancia. Esto nos permite almacenar múltiples cuentas bancarias para cada empleado.
 
+
+<br>
+
+
 ###Clase Employee　
+
+<br>
 
 ```javascript
     private String name;
@@ -21,7 +27,15 @@ Primero agregamos la funcionalidad para que un empleado pueda tener múltiples c
 <br>
 
 Luego, creamos un menú en la clase **main** para que el usuario pueda interactuar con el programa. Este menú ofrece opciones para mostrar información de todos los *empleados* con sus *cuentas bancarias*, así como para mostrar la información de un *empleado específico*.
+
+
+<br>
+
+
 ###Clase main　
+
+<br>
+
 ```javascript
 System.out.println("Seleccione un empleado:");
             for (int i = 0; i < employees.size(); i++) {

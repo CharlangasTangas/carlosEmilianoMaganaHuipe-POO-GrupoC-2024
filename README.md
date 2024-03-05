@@ -6,7 +6,7 @@ Primero agregamos la funcionalidad para que un empleado pueda tener múltiples c
 <br>
 
 
-###Clase Employee　
+####Clase Employee　
 
 <br>
 
@@ -32,7 +32,7 @@ Luego, creamos un menú en la clase **main** para que el usuario pueda interactu
 <br>
 
 
-###Clase main　
+####Clase main　
 
 <br>
 
